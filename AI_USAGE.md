@@ -15,7 +15,7 @@
 
 ## One AI Mistake Corrected
 
-ChatGPT initially suggested removing the exploratory `inspect_data.py` script entirely. I decided to retain it locally as a reference for data exploration and debugging, while excluding it from the final submission.
+ChatGPT initially suggested reorganising the code into fewer sections instead of preserving my original 14-cell structure. I corrected this by retaining the original structure, which made the code easier for me to navigate and understand.
 
 ## Verification
 
