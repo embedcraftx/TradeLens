@@ -1,0 +1,16 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Pytest cache
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+
+# Generated output folders
+output/
+output_test/
+output_final/
